@@ -22,15 +22,16 @@
 
 ## 🚀 About Me
 
-I'm **Maruti Patil**, a developer passionate about building practical projects and learning modern technologies.
+I'm **Maruti Patil**, a developer passionate about building practical projects
+and learning modern technologies.
 
-* 🐍 Interested in **Python & Software Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 👁️ Working with **Computer Vision & Deep Learning**
-* 🔐 Interested in **Cybersecurity & Security**
-* 🌐 Building **Web Applications**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Always learning and experimenting with new technologies
+- 🐍 Interested in **Python & Software Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 👁️ Working with **Computer Vision & Deep Learning**
+- 🔐 Interested in **Cybersecurity & Security**
+- 🌐 Building **Web Applications**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Always learning and experimenting with new technologies
 
 ---
 
@@ -38,40 +39,40 @@ I'm **Maruti Patil**, a developer passionate about building practical projects a
 
 ### 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c" alt="Programming Languages"/>
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI ML Technologies"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
 </p>
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ### 🔐 Cybersecurity
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali" />
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali" alt="Linux Kali"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools"/>
 </p>
 
 ---
@@ -80,19 +81,24 @@ I'm **Maruti Patil**, a developer passionate about building practical projects a
 
 ### ✍️ Handwriting Writer Identification
 
-An AI/deep-learning project for identifying handwriting using:
+An AI and Deep Learning project for identifying handwriting using:
 
 **TensorFlow • OpenCV • Streamlit • Deep Learning**
 
-🔗 [View Repository](https://github.com/maruti-21/Handwriting-Writer-Identification)
+<a href="https://github.com/maruti-21/Handwriting-Writer-Identification">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Handwriting Project"/>
+</a>
 
 ---
 
 ### 🛡️ Strong Password Checker
 
-A project focused on checking password strength and helping users create stronger passwords.
+A project focused on checking password strength and helping users create
+stronger and more secure passwords.
 
-🔗 [View Repository](https://github.com/maruti-21/Strong-Password-Checker)
+<a href="https://github.com/maruti-21/Strong-Password-Checker">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Password Checker"/>
+</a>
 
 ---
 
@@ -100,7 +106,9 @@ A project focused on checking password strength and helping users create stronge
 
 A web development project for an insurance company website.
 
-🔗 [View Repository](https://github.com/maruti-21/Website-for-Insurance-Company)
+<a href="https://github.com/maruti-21/Website-for-Insurance-Company">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Insurance Website"/>
+</a>
 
 ---
 
@@ -108,15 +116,19 @@ A web development project for an insurance company website.
 
 A collection of Python-based Data Structures and Algorithms practice.
 
-🔗 [View Repository](https://github.com/maruti-21/pythonDSA)
+<a href="https://github.com/maruti-21/pythonDSA">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Python DSA"/>
+</a>
 
 ---
 
 ### 🌱 Carbon
 
-A project focused on carbon/environment-related concepts.
+A project focused on carbon and environmental concepts.
 
-🔗 [View Repository](https://github.com/maruti-21/carbon)
+<a href="https://github.com/maruti-21/carbon">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Carbon Project"/>
+</a>
 
 ---
 
@@ -124,9 +136,17 @@ A project focused on carbon/environment-related concepts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maruti-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<a href="https://github.com/maruti-21">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruti-21&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maruti-21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Maruti's GitHub Stats"/>
+
+</a>
+
+<a href="https://github.com/maruti-21">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruti-21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Maruti's Top Languages"/>
+
+</a>
 
 </div>
 
@@ -136,7 +156,7 @@ A project focused on carbon/environment-related concepts.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=maruti-21&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=maruti-21&theme=tokyonight&hide_border=true" alt="Maruti's GitHub Streak"/>
 
 </div>
 
@@ -146,10 +166,10 @@ A project focused on carbon/environment-related concepts.
 
 <div align="center">
 
-<img 
+<img
+  src="https://raw.githubusercontent.com/maruti-21/maruti-21/gh-pages/github-contribution-grid-snake.svg"
   alt="GitHub Contribution Snake"
   width="100%"
-  src="https://raw.githubusercontent.com/maruti-21/maruti-21/gh-pages/github-contribution-grid-snake.svg"
 />
 
 </div>
@@ -161,15 +181,15 @@ A project focused on carbon/environment-related concepts.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maruti-patil-306a32395/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:marutipatil0342@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/maruti-21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -178,6 +198,6 @@ A project focused on carbon/environment-related concepts.
 
 <div align="center">
 
-### 💡 "Keep Learning. Keep Building. Keep Growing. 🚀"
+### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
 
 </div>

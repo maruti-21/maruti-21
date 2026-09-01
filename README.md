@@ -146,7 +146,11 @@ A project focused on carbon/environment-related concepts.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maruti-21/maruti-21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img 
+  alt="GitHub Contribution Snake"
+  width="100%"
+  src="https://raw.githubusercontent.com/maruti-21/maruti-21/gh-pages/github-contribution-grid-snake.svg"
+/>
 
 </div>
 
